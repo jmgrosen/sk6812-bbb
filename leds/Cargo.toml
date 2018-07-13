@@ -1,0 +1,7 @@
+[package]
+name = "leds"
+version = "0.1.0"
+authors = ["John Grosen <jmgrosen@gmail.com>"]
+
+[dependencies]
+prusst = { path = "/home/john/projects/prusst/" }

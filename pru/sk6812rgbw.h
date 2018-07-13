@@ -12,7 +12,6 @@ typedef struct {
 
 enum sk6812rgbw_cmd {
   SK6812RGBW_GO,
-  SK6812RGBW_STOP,
 };
 
 struct sk6812rgbw_control {
